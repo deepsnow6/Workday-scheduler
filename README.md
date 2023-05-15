@@ -1,5 +1,10 @@
 # Work Day Scheduler
 
+Live link: 
+
+![screencapture-file-Users-denirose-Downloads-Workday-scheduler-develop-index-html-2023-05-15-16_17_55](https://github.com/deepsnow6/Workday-scheduler/assets/130337959/969dd794-a5aa-4934-9755-245ceab2521d)
+
+
 ## Description
 The Productivity Manager is an intuitive application designed to assist users in effectively managing their daily tasks and appointments. By providing a user-friendly interface, it streamlines scheduling and organization, optimizing productivity and time management. This innovative solution eliminates the reliance on conventional planning methods, offering a customizable and accessible digital alternative. Throughout the development process, I got  firsthand experience with HTML, CSS, and JavaScript, while also harnessing the power of popular frameworks such as Bootstrap and jQuery to enhance functionality and user experience.
 
