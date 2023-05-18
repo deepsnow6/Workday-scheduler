@@ -51,6 +51,7 @@ Your entries will be stored locally, allowing you to access them even after refr
 ## Credits 
 
 This project uses source code linked in the following repository, created by user Xandromus, and doesn't appear to use a liscence. [Xandromus] (https://github.com/coding-boot-camp/crispy-octo-meme)
+This project also uses frameworks Bootstrap and jQuery.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
